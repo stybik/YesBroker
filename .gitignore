@@ -1,3 +1,7 @@
+
+# Created by https://www.gitignore.io/api/django
+# Edit at https://www.gitignore.io/?templates=django
+
 ### Django ###
 *.log
 *.pot
@@ -131,6 +135,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-venv
+venv/
 
 # End of https://www.gitignore.io/api/django
