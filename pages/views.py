@@ -25,6 +25,7 @@ def about(request):
     mvp_realtors = Realtor.objects.all().filter(is_mvp=True)
     print(mvp_realtors)
     print("testing zapier")
+    print("made a zap")
 
     context = {
         'realtors': realtors,
