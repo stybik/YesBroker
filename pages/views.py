@@ -26,6 +26,7 @@ def about(request):
     print("Hello")
     print("New Hello")
     print("last try")
+    print("wait for 15 mins")
 
     context = {
         'realtors': realtors,
